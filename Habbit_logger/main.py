@@ -23,6 +23,6 @@ elif choice == "4":
 
 
 elif choice == "5":
-    print(f"🧮 Total habits logged: {count_entries()}")
+    print(f"Total habits logged: {count_entries()}")
 else:
-    print("❌ Invalid choice.")
+    print(" Invalid choice.")
